@@ -2,8 +2,6 @@
 - 👀 I’m interested in game/mod development
 - 🌱 I’m currently learning jawa
 - 💞️ I’m looking to collaborate on my friends
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i like chak-chak and dumplings
 
 <!---
